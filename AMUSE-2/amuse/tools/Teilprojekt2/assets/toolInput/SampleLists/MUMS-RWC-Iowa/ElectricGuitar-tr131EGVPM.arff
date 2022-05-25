@@ -1,0 +1,42 @@
+@relation musicfiles
+
+@attribute Id numeric
+@attribute Path string
+
+@data
+1,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM01_F2.wav
+2,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM02_Fis2.wav
+3,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM03_G2.wav
+4,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM04_Gis2.wav
+5,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM05_A2.wav
+6,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM06_Ais2.wav
+7,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM07_B2.wav
+8,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM08_C3.wav
+9,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM09_Cis3.wav
+10,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM10_D3.wav
+11,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM11_Dis3.wav
+12,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM12_E3.wav
+13,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM20_F3.wav
+14,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM21_Fis3.wav
+15,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM22_G3.wav
+16,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM23_Gis3.wav
+17,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM24_A3.wav
+18,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM32_Ais3.wav
+19,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM33_B3.wav
+20,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM34_C4.wav
+21,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM35_Cis4.wav
+22,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM36_D4.wav
+23,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM44_Dis4.wav
+24,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM45_E4.wav
+25,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM46_F4.wav
+26,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM47_Fis4.wav
+27,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM48_G4.wav
+28,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM57_Gis4.wav
+29,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM58_A4.wav
+30,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM59_Ais4.wav
+31,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM60_B4.wav
+32,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM68_C5.wav
+33,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM69_Cis5.wav
+34,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM70_D5.wav
+35,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM71_Dis5.wav
+36,/scratch/Musikinformatik/Samples/ForMixing/ElectricGuitar/tr131EGVPM/tr131EGVPM72_E5.wav

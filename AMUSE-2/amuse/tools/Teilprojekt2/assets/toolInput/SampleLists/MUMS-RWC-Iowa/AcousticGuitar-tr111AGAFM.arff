@@ -1,0 +1,43 @@
+@relation musicfiles
+
+@attribute Id numeric
+@attribute Path string
+
+@data
+1,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM01_E2.wav
+2,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM02_F2.wav
+3,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM03_Fis2.wav
+4,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM04_G2.wav
+5,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM05_Gis2.wav
+6,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM06_A2.wav
+7,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM07_Ais2.wav
+8,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM08_B2.wav
+9,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM09_C3.wav
+10,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM10_Cis3.wav
+11,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM11_D3.wav
+12,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM12_Dis3.wav
+13,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM13_E3.wav
+14,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM22_F3.wav
+15,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM23_Fis3.wav
+16,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM24_G3.wav
+17,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM25_Gis3.wav
+18,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM26_A3.wav
+19,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM35_Ais3.wav
+20,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM36_B3.wav
+21,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM37_C4.wav
+22,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM38_Cis4.wav
+23,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM39_D4.wav
+24,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM48_Dis4.wav
+25,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM49_E4.wav
+26,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM50_F4.wav
+27,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM51_Fis4.wav
+28,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM52_G4.wav
+29,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM62_Gis4.wav
+30,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM63_A4.wav
+31,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM64_Ais4.wav
+32,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM65_B4.wav
+33,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM74_C5.wav
+34,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM75_Cis5.wav
+35,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM76_D5.wav
+36,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM77_Dis5.wav
+37,/scratch/Musikinformatik/Samples/ForMixing/AcousticGuitar/tr111AGAFM/tr111AGAFM78_E5.wav
