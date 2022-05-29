@@ -1,4 +1,5 @@
-import java.io.IOException;
+package tool;
+
 
 public class Instrument {
     public int iD;
