@@ -1,14 +1,20 @@
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws IOException {
         initData();
     }
-    public static void initData()throws IOException{
-        File instrumentsArff = new File("C:\\Users\\marka\\eclipse-workspace\\Teilprojekt2\\AMUSE-2\\amuse\\tools\\Teilprojekt2\\assets\\toolInput\\Instruments.arff");
-        System.out.println(extractInstruments(instrumentsArff).toString());
+    public static void initData() throws IOException{
+        try {
+            File instrumentsArff = new File("C:\\Users\\marka\\eclipse-workspace\\Teilprojekt2\\AMUSE-2\\amuse\\tools\\Teilprojekt2\\assets\\toolInput\\Instruments.arff");
+            System.out.println(extractInstruments(instrumentsArff));
+        }
+        catch (Exception e) {
+            System.out.println(Arrays.toString(e.getStackTrace()));
+        }
         /// Instrument.arff/SampleLists, XML-Datei(anzahlInstrumente/Noten) ->
         // TODO Auslesen aller Samples(instrument_Note.wav)
         //  -> File[] mit den Pfaden aller Samples
