@@ -1,32 +1,14 @@
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.Objects;
-import java.util.stream.Collectors;
 
-public class Teilprojekt2 {
+public class Main {
     public static void main(String[] args) throws IOException {
-        /*String[] argss = new String[4];
-        argss[0] = "[\"C:\\Users\\install\\OneDrive - OrgaTech Solution Engineering Consulting GmbH\\Desktop\\x2go2\\Genre";
-        argss[1] = "rock";
-        argss[2] = "5";
-        argss[3] = "5";
-        ArffCreator.main(argss);*/
-        initData();/*
-        searchAllFiles();
-        filterCriteria();
-        outputFile();*/
+        initData();
     }
-    public static void initData(){
-        String instrumentPfad = "AMUSE-2/amuse/tools/Teilprojekt2/assets/toolInput/Instruments.arff";//sollte aus config kommen
-        File instrumentsArff = new File(instrumentPfad);
-        try {
-            System.out.println(extractInstruments(instrumentsArff).toString());
-        }
-        catch(Exception e){
-
-        }
+    public static void initData()throws IOException{
+        File instrumentsArff = new File("C:\\Users\\marka\\eclipse-workspace\\Teilprojekt2\\AMUSE-2\\amuse\\tools\\Teilprojekt2\\assets\\toolInput\\Instruments.arff");
+        System.out.println(extractInstruments(instrumentsArff).toString());
         /// Instrument.arff/SampleLists, XML-Datei(anzahlInstrumente/Noten) ->
         // TODO Auslesen aller Samples(instrument_Note.wav)
         //  -> File[] mit den Pfaden aller Samples
