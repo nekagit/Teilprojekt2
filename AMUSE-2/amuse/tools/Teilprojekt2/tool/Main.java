@@ -9,8 +9,7 @@ public class Main {
     }
     public static void initData() throws IOException{
         try {
-            File instrumentsArff = new File("C:\\Users\\marka\\eclipse-workspace\\Teilprojekt2\\AMUSE-2\\amuse\\tools\\Teilprojekt2\\assets\\toolInput\\Instruments.arff");
-            System.out.println(extractInstruments(instrumentsArff));
+            File instrumentsArff = new File("Instruments.arff");
         }
         catch (Exception e) {
             System.out.println(Arrays.toString(e.getStackTrace()));
@@ -30,13 +29,15 @@ public class Main {
         String line;
         while((line = rd.readLine()) != null){
             if(line.contains(",")){
-                int iID = Integer.parseInt(line.substring(0,line.indexOf(",")));
-                String iName = line.substring(1,line.indexOf(","));
-                int iStyleID = Integer.parseInt(line.substring(2,line.indexOf(",")));
-                String iPfad = line.substring(3,line.indexOf(","));
-                int iLowestPitch = Integer.parseInt(line.substring(4,line.indexOf(",")));
-                int iHighestPitch = Integer.parseInt(line.substring(5,line.indexOf(",")));
-                extractedIntstruments.add(new Instrument(iID, iName, iStyleID, iPfad, iLowestPitch, iHighestPitch));
+                String[] array = line.split(",")
+                int iID = Integer.parseInt(array[0]);
+                String iName = array[1];
+                int iStyleID = Integer.parseInt(array[2]);
+                String istyleName = array[3];
+                String iPfad = array[4];
+                int iLowestPitch = Integer.parseInt(array[5]);
+                int iHighestPitch = Integer.parseInt(array[6]);
+                extractedIntstruments.add(new Instrument(iID, iName, iStyleID, istyleName, iPfad, iLowestPitch, iHighestPitch));
             }
         }
         rd.close();
