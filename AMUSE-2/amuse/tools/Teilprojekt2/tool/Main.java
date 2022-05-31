@@ -9,7 +9,10 @@ public class Main {
     }
     public static void initData() throws IOException{
         try {
-            File instrumentsArff = new File("Instruments.arff");
+            List<Instrument> instruments = extractedIntstruments(new File("../assets/toolinput/Instruments.arff"));
+            foreach(instrument in instruments){
+                inststrument.addNotes();
+            }
         }
         catch (Exception e) {
             System.out.println(Arrays.toString(e.getStackTrace()));
@@ -29,7 +32,7 @@ public class Main {
         String line;
         while((line = rd.readLine()) != null){
             if(line.contains(",")){
-                String[] array = line.split(",")
+                String[] array = line.split(",");
                 int iID = Integer.parseInt(array[0]);
                 String iName = array[1];
                 int iStyleID = Integer.parseInt(array[2]);
