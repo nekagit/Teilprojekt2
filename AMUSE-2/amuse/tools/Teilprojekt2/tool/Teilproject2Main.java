@@ -3,20 +3,16 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class Teilproject2Main {
     public static void main(String[] args) throws IOException {
-        initData();
+        initData("C:\\Users\\marka\\eclipse-workspace\\Teilprojekt2\\AMUSE-2\\amuse\\tools\\Teilprojekt2\\assets\\toolInput\\Instruments.arff");
     }
-    public static void initData() throws IOException{
-        try {
-            List<Instrument> instruments = extractedIntstruments(new File("../assets/toolinput/Instruments.arff"));
-            foreach(instrument in instruments){
-                inststrument.addNotes();
-            }
+    public static void initData(String instrumentsArffPath) throws IOException{
+        List<Instrument> instruments = extractInstruments(new File(instrumentsArffPath));
+        for(Instrument instrument : instruments){
+            instrument.addNotes();
         }
-        catch (Exception e) {
-            System.out.println(Arrays.toString(e.getStackTrace()));
-        }
+
         /// Instrument.arff/SampleLists, XML-Datei(anzahlInstrumente/Noten) ->
         // TODO Auslesen aller Samples(instrument_Note.wav)
         //  -> File[] mit den Pfaden aller Samples

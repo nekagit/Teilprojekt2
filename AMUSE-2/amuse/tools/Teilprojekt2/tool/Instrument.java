@@ -1,3 +1,5 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,7 +17,7 @@ public class Instrument {
         iD = piD;
         name = pname;
         styleID = pstyleID;
-        styleName = pstyleName
+        styleName = pstyleName;
         path = ppath;
         lowestPitch = plowestPitch;
         highestPitch = phighestPitch;
@@ -24,7 +26,7 @@ public class Instrument {
         return iD + ", " + name + ", " + styleID + ", " + styleName + ", " + path + ", " + lowestPitch + ", " + highestPitch;
     }
 
-    public void addNotes(){
+    public void addNotes()throws IOException{
         BufferedReader rd = new BufferedReader(new FileReader(path));
         String line;
         while((line = rd.readLine()) != null){

@@ -1,5 +1,7 @@
+import java.io.IOException;
+
 public class Main {
-    public static void main(String[] args){
-        Teilprojekt2.main();
+    public static void main(String[] args) throws IOException {
+        Teilproject2Main.main(args);
     }
 }
