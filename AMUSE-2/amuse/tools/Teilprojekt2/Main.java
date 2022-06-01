@@ -1,10 +1,9 @@
-import tool.Init;
+import tool.Teilproject2Main;
 
 import java.io.IOException;
-import amuse.scheduler.tools.ToolScheduler;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        Init.main(null);
+        Teilproject2Main.main(args);
     }
 }
