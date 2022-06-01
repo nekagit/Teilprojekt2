@@ -1,0 +1,37 @@
+@relation musicfiles
+
+@attribute Id numeric
+@attribute Path string
+
+@data
+1,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM1_E3.wav
+2,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM2_F3.wav
+3,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM3_Fis3.wav
+4,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM4_G3.wav
+5,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM5_Gis3.wav
+6,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM6_A3.wav
+7,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM7_Ais3.wav
+8,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM8_B3.wav
+9,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM9_C4.wav
+10,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM10_Cis4.wav
+11,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM11_D4.wav
+12,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM12_Dis4.wav
+13,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM13_E4.wav
+14,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM14_F4.wav
+15,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM15_Fis4.wav
+16,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM16_G4.wav
+17,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM17_Gis4.wav
+18,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM18_A4.wav
+19,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM19_Ais4.wav
+20,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM20_B4.wav
+21,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM21_C5.wav
+22,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM22_Cis5.wav
+23,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM23_D5.wav
+24,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM24_Dis5.wav
+25,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM25_E5.wav
+26,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM26_F5.wav
+27,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM27_Fis5.wav
+28,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM28_G5.wav
+29,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM29_Gis5.wav
+30,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM30_A5.wav
+31,/scratch/Musikinformatik/Samples/ForMixing/Trumpet/tr211TRVIM/tr211TRVIM31_Ais5.wav
