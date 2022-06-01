@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f89f1f56-60b4-4d9d-b283-0c40e908d0c8" name="Changes" comment="m" />
+    <list default="true" id="d1f175cc-21a3-4d3e-8b20-7e6736faf5c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/AMUSE-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool/Teilproject2Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/tool/Teilproject2Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +24,10 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tool/Instrument.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653840079081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/Mark'&#10;&#10;# Conflicts:&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/.idea/misc.xml&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/.idea/modules.xml&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/Main.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Init.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Instrument.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Main.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Teilproject2Main.java">
+      <created>1654091445283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654091445283</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="m" />
-    <option name="LAST_COMMIT_MESSAGE" value="m" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/Mark'&#10;&#10;# Conflicts:&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/.idea/misc.xml&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/.idea/modules.xml&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/Main.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Init.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Instrument.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Main.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Teilproject2Main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/Mark'&#10;&#10;# Conflicts:&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/.idea/misc.xml&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/.idea/modules.xml&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/Main.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Init.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Instrument.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Main.java&#10;#&#9;AMUSE-2/amuse/tools/Teilprojekt2/tool/Teilproject2Main.java" />
   </component>
 </project>

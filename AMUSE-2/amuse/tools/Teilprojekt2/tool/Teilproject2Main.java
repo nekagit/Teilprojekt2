@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Teilproject2Main {
     public static void main(String[] args) throws IOException {
-        initData("C:\\Users\\marka\\eclipse-workspace\\Teilprojekt2\\AMUSE-2\\amuse\\tools\\Teilprojekt2\\assets\\toolInput\\Instruments.arff");
+        initData("/scratch/Musikinformatik/Samples/Instruments.arff");
     }
     public static void initData(String instrumentsArffPath) throws IOException{
         List<Instrument> instruments = extractInstruments(new File(instrumentsArffPath));

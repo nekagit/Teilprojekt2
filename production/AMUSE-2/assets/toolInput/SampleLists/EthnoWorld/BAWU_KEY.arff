@@ -1,0 +1,25 @@
+@relation musicfiles
+
+@attribute Id numeric
+@attribute Path string
+
+@data
+1,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_059_B3.wav
+2,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_060_C4.wav
+3,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_061_Cis4.wav
+4,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_062_D4.wav
+5,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_063_Dis4.wav
+6,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_064_E4.wav
+7,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_065_F4.wav
+8,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_066_Fis4.wav
+9,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_067_G4.wav
+10,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_068_Gis4.wav
+11,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_069_A4.wav
+12,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_070_Ais4.wav
+13,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_071_B4.wav
+14,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_072_C5.wav
+15,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_073_Cis5.wav
+16,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_074_D5.wav
+17,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_075_Dis5.wav
+18,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_076_E5.wav
+19,/scratch/Musikinformatik/Samples/EthnoSamples/WoodwindAndBrass/BAWU_KEY/BAWU_KEY_077_F5.wav

@@ -1,0 +1,40 @@
+@relation musicfiles
+
+@attribute Id numeric
+@attribute Path string
+
+@data
+1,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM3_A3.wav
+2,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM4_Ais3.wav
+3,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM5_B3.wav
+4,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM6_C4.wav
+5,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM7_Cis4.wav
+6,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM8_D4.wav
+7,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM9_Dis4.wav
+8,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM10_E4.wav
+9,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM11_F4.wav
+10,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM12_Fis4.wav
+11,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM13_G4.wav
+12,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM20_Gis4.wav
+13,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM21_A4.wav
+14,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM22_Ais4.wav
+15,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM23_B4.wav
+16,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM24_C5.wav
+17,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM25_Cis5.wav
+18,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM26_D5.wav
+19,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM33_Dis5.wav
+20,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM34_E5.wav
+21,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM35_F5.wav
+22,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM36_Fis5.wav
+23,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM37_G5.wav
+24,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM38_Gis5.wav
+25,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM39_A5.wav
+26,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM46_Ais5.wav
+27,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM47_B5.wav
+28,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM48_C6.wav
+29,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM49_Cis6.wav
+30,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM50_D6.wav
+31,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM51_Dis6.wav
+32,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM52_E6.wav
+33,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM53_F6.wav
+34,/scratch/Musikinformatik/Samples/ForMixing/Violin/tr152VNNVM/tr152VNNVM54_Fis6.wav
